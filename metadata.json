@@ -1,0 +1,6 @@
+{
+  "name": "ServerJunior - Monitoring & Proyek Kelas 7",
+  "description": "Sistem pemantauan server real-time dan pelacakan progres proyek edukasi berbasis poin serta notifikasi pencapaian untuk siswa SMP kelas 7.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
